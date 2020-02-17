@@ -8,3 +8,11 @@ This repo contains the code for Data Storm v1.0 - Team Extortion.
     - Identify the lead indicators of credit card default. (eg: unknown missed payments)
     - Based on these attributes, generate a list of priority clients with high probability of credit card defaults.
     - For these likely to default clients, develop a list of marketing interventions to reduce credit card default.
+
+# Key Approaches
+- Ensemble Model of XGBoost with CatBoost, which produced an F1-Score of 0.82466 on the Private Leaderboard.
+
+# Team Members
+Shayen Yatagama
+Vinura Perera
+Pasindu Thisaranga
